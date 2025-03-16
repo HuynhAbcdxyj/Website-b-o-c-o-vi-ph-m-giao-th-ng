@@ -1,15 +1,21 @@
 4.2.2. Mô tả cấu trúc mã nguồn 
+
 4.2.2.1. Thư mục assets/ 
+
 Chứa các tài nguyên tĩnh phục vụ giao diện người dùng, bao gồm: 
 • css_form_admin/: Chứa CSS dành cho trang quản trị (admin). 
 • css_form_users/: Chứa CSS dành cho trang người dùng (user). 
 • css_index/: CSS dùng chung cho trang chủ hoặc trang chính. 
 • script_index/: Có thể chứa các file JavaScript dùng cho giao diện. 
+
 4.2.2.2. Thư mục db/ 
+
 • config.php: File cấu hình kết nối cơ sở dữ liệu (chứa thông tin host, database, 
 username, password). 
 40 
+
 4.2.2.3. Thư mục frm/ 
+
 Chứa các form giao diện và xử lý logic liên quan đến từng nhóm người dùng. 
 • frm_admin/: Chứa giao diện và các file xử lý của admin. 
 • frm_user/: Chứa giao diện và các file xử lý của user. 
