@@ -23,6 +23,8 @@ Chứa các form giao diện và xử lý logic liên quan đến từng nhóm n
 • login.php: Chứa giao diện đăng nhập cho user và admin. 
 • process_login.php: Xử lý thông tin đăng nhập, kiểm tra thông tin trong database 
 và điều hướng người dùng/admin về đúng giao diện của họ. 
+
 4.2.2.5. Thư mục img/ 
+
 • Chứa hình ảnh liên quan đến hệ thống, như avatar người dùng, hình minh họa vi 
 phạm, logo,...
